@@ -10,6 +10,5 @@ This repository is a companion to my [Youtube Solidity Playlist](https://www.you
 - [Control Structure(if..else if...else) - Learning Solidity #4](https://youtu.be/aCXmMilXvI8)
 - [Strings - Learning Solidity #5](https://youtu.be/51L1IoyNdCM)
 - [Understanding Solidity Arrays - Learning Solidity #6](https://youtu.be/2dWe_6LYfGs)
-- [Enums - Learning Solidity #7](https://www.youtube.com/playlist?list=PLG3Tf5BKdISldRfBNePb19IRZOCeCcB91)
-- [Struct - Learning Solidity #8](https://www.youtube.com/playlist?list=PLG3Tf5BKdISldRfBNePb19IRZOCeCcB91)
-- [Mappings - Learning Solidity #9](https://www.youtube.com/playlist?list=PLG3Tf5BKdISldRfBNePb19IRZOCeCcB91)
+- [Enums - Learning Solidity #7](https://youtu.be/SzQFjIqMGhI)
+- [Structs & Mappings - Learning Solidity #8](https://www.youtube.com/playlist?list=PLG3Tf5BKdISldRfBNePb19IRZOCeCcB91)

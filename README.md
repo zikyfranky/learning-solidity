@@ -11,4 +11,6 @@ This repository is a companion to my [Youtube Solidity Playlist](https://www.you
 - [Strings - Learning Solidity #5](https://youtu.be/51L1IoyNdCM)
 - [Understanding Solidity Arrays - Learning Solidity #6](https://youtu.be/2dWe_6LYfGs)
 - [Enums - Learning Solidity #7](https://youtu.be/SzQFjIqMGhI)
-- [Structs & Mappings - Learning Solidity #8](https://www.youtube.com/playlist?list=PLG3Tf5BKdISldRfBNePb19IRZOCeCcB91)
+- [Structs - Learning Solidity #8](https://youtu.be/anb1bzcRlg0)
+- [Mappings - Learning Solidity #9](https://www.youtube.com/playlist?list=PLG3Tf5BKdISldRfBNePb19IRZOCeCcB91)
+- [Functions - Learning Solidity #10](https://www.youtube.com/playlist?list=PLG3Tf5BKdISldRfBNePb19IRZOCeCcB91)

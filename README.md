@@ -14,7 +14,7 @@ This repository is a companion to my [Youtube Solidity Playlist](https://www.you
 - [Understanding Solidity Arrays - Learning Solidity #6](https://youtu.be/2dWe_6LYfGs)
 - [Enums - Learning Solidity #7](https://youtu.be/SzQFjIqMGhI)
 - [Structs - Learning Solidity #8](https://youtu.be/anb1bzcRlg0)
-- [Mappings - Learning Solidity #9]()
+- [Mappings - Learning Solidity #9](https://youtu.be/eZkAobjLr4A)
 - [Functions - Learning Solidity #10]()
 
 #### Advanced

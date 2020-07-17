@@ -20,3 +20,4 @@ This repository is a companion to my [Youtube Solidity Playlist](https://www.you
 #### Advanced
 
 - [Inheritance - Learning Solidity #11](https://youtu.be/LI3yzW-e-0k)
+- [Abstract Contract & Interface - Learning Solidity #12](https://youtu.be/iAB_6ZwqGG0)

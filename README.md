@@ -18,3 +18,5 @@ This repository is a companion to my [Youtube Solidity Playlist](https://www.you
 - [Functions - Learning Solidity #10](https://youtu.be/9UQgfrHmqMs)
 
 #### Advanced
+
+- [Inheritance - Learning Solidity #11](https://youtu.be/LI3yzW-e-0k)

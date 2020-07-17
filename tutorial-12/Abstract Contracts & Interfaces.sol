@@ -1,22 +1,29 @@
-pragma solidity ^0.6.8;
+pragma solidity 0.6.8;
 
-contract Math{
-    uint private id;
-    function sum(uint a, uint b) public returns(uint){
-        return a+b;
-    }
-    function pow(uint a, uint b) public returns(uint){
-        return a**b;
-    }
+abstract contract Abstract {
+    function result() public virtual;
 }
 
-contract Inheritance is Math{
-    string name;
-    constructor() public{
-        name = "Isaac";
+abstract contract secondAbs {
+    function add() public {}
+
+    function result() public virtual;
+}
+
+interface Example {
+    function totalSupply() external returns (uint256);
+
+    enum User {A, B, C}
+}
+
+contract Derived is Abstract, secondAbs {
+    function totalSupply() public returns (uint256) {
+        return 100;
     }
-    
-    function ssum() public returns(uint){
-        return sum(12, 8);
+
+    function result() public override(Abstract, secondAbs) {}
+
+    function printEnum() public view returns (Example.User) {
+        return Example.User.A;
     }
 }

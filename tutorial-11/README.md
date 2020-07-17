@@ -10,4 +10,4 @@
 
 #### Hierachy Ineritance
 
-![Hierachy](./hierachy.png "Hierachy")
+![Hierachy](./hierarchy.png "Hierachy")

@@ -1,0 +1,14 @@
+Welcome back to learning Solidity 
+
+Memory vs Storage
+Calling Functions of other Smart COntracts -> DONE
+Gas, Gas Limit and Gas Price -> DONE
+Ether and Wei
+Call -> DONE
+Delegate Call
+Creating Contracts from a Contracts
+Sending Ether
+Signature Verification
+What is WEI and how is ether defined
+
+Create a MultiPlayer BlockChain Game
